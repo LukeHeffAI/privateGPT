@@ -1,0 +1,18 @@
+In this course, the textbook (Introduction to Statistical Learning (Introduction_to_Statistical_Learning.pdf)) will be studied per the following syllabus:
+
+Weeks 1-4
+2 Statistical Learning 
+3 Linear Regression
+4 Classiﬁcation
+
+Weeks 5-7
+5 Resampling Methods
+6 Linear Model Selection and Regularization
+7 Moving Beyond Linearity
+
+Weeks 8-10
+8 Tree-Based Methods
+9 Support Vector Machines
+
+Weeks 11-12
+10 Unsupervised Learning
