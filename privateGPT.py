@@ -71,6 +71,9 @@ def parse_arguments():
                                                  'using the power of LLMs.')
     parser.add_argument("--hide-source", "-S", action='store_true',
                         help='Use this flag to disable printing of source documents used for answers.')
+    
+    parser.add_argument("--hide-source-content", "-SC", action='store_true',
+                    help='Use this flag to disable printing of source document content used for answers, metadata only.')
 
     parser.add_argument("--mute-stream", "-M",
                         action='store_true',
